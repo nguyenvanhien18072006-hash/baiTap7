@@ -1,0 +1,14 @@
+C:\Users\ABC\RiderProjects\baiTap7\baiTap7\bin\Debug\net9.0\baiTap7.exe
+C:\Users\ABC\RiderProjects\baiTap7\baiTap7\bin\Debug\net9.0\baiTap7.deps.json
+C:\Users\ABC\RiderProjects\baiTap7\baiTap7\bin\Debug\net9.0\baiTap7.runtimeconfig.json
+C:\Users\ABC\RiderProjects\baiTap7\baiTap7\bin\Debug\net9.0\baiTap7.dll
+C:\Users\ABC\RiderProjects\baiTap7\baiTap7\bin\Debug\net9.0\baiTap7.pdb
+C:\Users\ABC\RiderProjects\baiTap7\baiTap7\obj\Debug\net9.0\baiTap7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABC\RiderProjects\baiTap7\baiTap7\obj\Debug\net9.0\baiTap7.AssemblyInfoInputs.cache
+C:\Users\ABC\RiderProjects\baiTap7\baiTap7\obj\Debug\net9.0\baiTap7.AssemblyInfo.cs
+C:\Users\ABC\RiderProjects\baiTap7\baiTap7\obj\Debug\net9.0\baiTap7.csproj.CoreCompileInputs.cache
+C:\Users\ABC\RiderProjects\baiTap7\baiTap7\obj\Debug\net9.0\baiTap7.dll
+C:\Users\ABC\RiderProjects\baiTap7\baiTap7\obj\Debug\net9.0\refint\baiTap7.dll
+C:\Users\ABC\RiderProjects\baiTap7\baiTap7\obj\Debug\net9.0\baiTap7.pdb
+C:\Users\ABC\RiderProjects\baiTap7\baiTap7\obj\Debug\net9.0\baiTap7.genruntimeconfig.cache
+C:\Users\ABC\RiderProjects\baiTap7\baiTap7\obj\Debug\net9.0\ref\baiTap7.dll
